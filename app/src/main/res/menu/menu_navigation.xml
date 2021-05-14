@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cafeden"
+        android:title="@string/den"
+        android:icon="@drawable/ic_baseline_local_cafe_24"/>
+
+    <item
+        android:id="@+id/cafebotbien"
+        android:title="@string/botbien"
+        android:icon="@drawable/ic_baseline_local_cafe_24"/>
+
+    <item
+        android:id="@+id/cafesua"
+        android:title="@string/sua"
+        android:icon="@drawable/ic_baseline_local_cafe_24"/>
+</menu>
